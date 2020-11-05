@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Cont">0</string>
+    <string name="menu1">Contacto</string>
+    <string name="menu2">Acerca de</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="email">Email</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviarcomentario">Enviar Comentario</string>
+    <string name="bibliografia">Hola soy Guillermo Betancurt y esta es mi sección para la bibliografía </string>
+    <string name="miperro">Tiki </string>
+
+
+</resources>

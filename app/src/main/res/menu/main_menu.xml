@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btFav"
+        android:orderInCategory="1"
+        android:title="5fav"
+        app:showAsAction="always"
+        android:icon="@drawable/estrella"/>
+
+    <item
+        android:id="@+id/Contacto"
+        android:title="@string/menu1"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/Acercade"
+        android:title="@string/menu2"
+        android:orderInCategory="2"/>
+
+
+</menu>
